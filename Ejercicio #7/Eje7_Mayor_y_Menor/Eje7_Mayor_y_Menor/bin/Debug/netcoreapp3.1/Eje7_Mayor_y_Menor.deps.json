@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Eje7_Mayor_y_Menor/1.0.0": {
+        "runtime": {
+          "Eje7_Mayor_y_Menor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eje7_Mayor_y_Menor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

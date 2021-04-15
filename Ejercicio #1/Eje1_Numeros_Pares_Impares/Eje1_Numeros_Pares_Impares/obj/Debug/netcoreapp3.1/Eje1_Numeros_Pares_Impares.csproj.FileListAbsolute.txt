@@ -1,0 +1,13 @@
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\bin\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.exe
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\bin\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.deps.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\bin\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.runtimeconfig.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\bin\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.runtimeconfig.dev.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\bin\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\bin\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\obj\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.csprojAssemblyReference.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\obj\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.AssemblyInfoInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\obj\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.AssemblyInfo.cs
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\obj\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.csproj.CoreCompileInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\obj\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\obj\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #1\Eje1_Numeros_Pares_Impares\Eje1_Numeros_Pares_Impares\obj\Debug\netcoreapp3.1\Eje1_Numeros_Pares_Impares.genruntimeconfig.cache

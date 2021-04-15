@@ -1,0 +1,13 @@
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\bin\Debug\netcoreapp3.1\Eje8_Palindrome.exe
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\bin\Debug\netcoreapp3.1\Eje8_Palindrome.deps.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\bin\Debug\netcoreapp3.1\Eje8_Palindrome.runtimeconfig.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\bin\Debug\netcoreapp3.1\Eje8_Palindrome.runtimeconfig.dev.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\bin\Debug\netcoreapp3.1\Eje8_Palindrome.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\bin\Debug\netcoreapp3.1\Eje8_Palindrome.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\obj\Debug\netcoreapp3.1\Eje8_Palindrome.csprojAssemblyReference.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\obj\Debug\netcoreapp3.1\Eje8_Palindrome.AssemblyInfoInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\obj\Debug\netcoreapp3.1\Eje8_Palindrome.AssemblyInfo.cs
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\obj\Debug\netcoreapp3.1\Eje8_Palindrome.csproj.CoreCompileInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\obj\Debug\netcoreapp3.1\Eje8_Palindrome.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\obj\Debug\netcoreapp3.1\Eje8_Palindrome.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #8\Eje8_Palindrome\Eje8_Palindrome\obj\Debug\netcoreapp3.1\Eje8_Palindrome.genruntimeconfig.cache

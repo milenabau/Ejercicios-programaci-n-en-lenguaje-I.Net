@@ -1,0 +1,13 @@
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\bin\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.exe
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\bin\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.deps.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\bin\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.runtimeconfig.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\bin\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.runtimeconfig.dev.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\bin\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\bin\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\obj\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.csprojAssemblyReference.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\obj\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.AssemblyInfoInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\obj\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.AssemblyInfo.cs
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\obj\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.csproj.CoreCompileInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\obj\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\obj\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #7\Eje7_Mayor_y_Menor\Eje7_Mayor_y_Menor\obj\Debug\netcoreapp3.1\Eje7_Mayor_y_Menor.genruntimeconfig.cache

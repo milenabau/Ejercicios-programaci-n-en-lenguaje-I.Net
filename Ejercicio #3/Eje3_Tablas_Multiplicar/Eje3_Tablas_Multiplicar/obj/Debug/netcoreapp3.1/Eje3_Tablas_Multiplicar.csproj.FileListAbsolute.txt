@@ -1,0 +1,13 @@
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\obj\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.csprojAssemblyReference.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\obj\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.AssemblyInfoInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\obj\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.AssemblyInfo.cs
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\obj\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.csproj.CoreCompileInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\bin\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.exe
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\bin\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.deps.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\bin\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.runtimeconfig.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\bin\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.runtimeconfig.dev.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\bin\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\bin\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\obj\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\obj\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #3\Eje3_Tablas_Multiplicar\Eje3_Tablas_Multiplicar\obj\Debug\netcoreapp3.1\Eje3_Tablas_Multiplicar.genruntimeconfig.cache

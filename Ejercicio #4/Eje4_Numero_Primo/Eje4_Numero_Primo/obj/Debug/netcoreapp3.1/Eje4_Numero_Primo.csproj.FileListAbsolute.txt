@@ -1,0 +1,13 @@
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\obj\Debug\netcoreapp3.1\Eje4_Numero_Primo.csprojAssemblyReference.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\obj\Debug\netcoreapp3.1\Eje4_Numero_Primo.AssemblyInfoInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\obj\Debug\netcoreapp3.1\Eje4_Numero_Primo.AssemblyInfo.cs
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\obj\Debug\netcoreapp3.1\Eje4_Numero_Primo.csproj.CoreCompileInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\bin\Debug\netcoreapp3.1\Eje4_Numero_Primo.exe
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\bin\Debug\netcoreapp3.1\Eje4_Numero_Primo.deps.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\bin\Debug\netcoreapp3.1\Eje4_Numero_Primo.runtimeconfig.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\bin\Debug\netcoreapp3.1\Eje4_Numero_Primo.runtimeconfig.dev.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\bin\Debug\netcoreapp3.1\Eje4_Numero_Primo.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\bin\Debug\netcoreapp3.1\Eje4_Numero_Primo.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\obj\Debug\netcoreapp3.1\Eje4_Numero_Primo.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\obj\Debug\netcoreapp3.1\Eje4_Numero_Primo.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #4\Eje4_Numero_Primo\Eje4_Numero_Primo\obj\Debug\netcoreapp3.1\Eje4_Numero_Primo.genruntimeconfig.cache

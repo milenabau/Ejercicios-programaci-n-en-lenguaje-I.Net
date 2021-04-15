@@ -1,0 +1,13 @@
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\bin\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.exe
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\bin\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.deps.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\bin\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.runtimeconfig.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\bin\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.runtimeconfig.dev.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\bin\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\bin\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\obj\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.csprojAssemblyReference.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\obj\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.AssemblyInfoInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\obj\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.AssemblyInfo.cs
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\obj\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.csproj.CoreCompileInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\obj\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\obj\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #5\Eje5_Ordenar_Vector\Eje5_Ordenar_Vector\obj\Debug\netcoreapp3.1\Eje5_Ordenar_Vector.genruntimeconfig.cache

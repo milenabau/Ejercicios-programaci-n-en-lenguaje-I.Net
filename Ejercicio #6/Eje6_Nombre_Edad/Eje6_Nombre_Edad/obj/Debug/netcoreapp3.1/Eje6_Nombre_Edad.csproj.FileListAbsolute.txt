@@ -1,0 +1,13 @@
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\bin\Debug\netcoreapp3.1\Eje6_Nombre_Edad.exe
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\bin\Debug\netcoreapp3.1\Eje6_Nombre_Edad.deps.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\bin\Debug\netcoreapp3.1\Eje6_Nombre_Edad.runtimeconfig.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\bin\Debug\netcoreapp3.1\Eje6_Nombre_Edad.runtimeconfig.dev.json
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\bin\Debug\netcoreapp3.1\Eje6_Nombre_Edad.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\bin\Debug\netcoreapp3.1\Eje6_Nombre_Edad.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\obj\Debug\netcoreapp3.1\Eje6_Nombre_Edad.csprojAssemblyReference.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\obj\Debug\netcoreapp3.1\Eje6_Nombre_Edad.AssemblyInfoInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\obj\Debug\netcoreapp3.1\Eje6_Nombre_Edad.AssemblyInfo.cs
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\obj\Debug\netcoreapp3.1\Eje6_Nombre_Edad.csproj.CoreCompileInputs.cache
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\obj\Debug\netcoreapp3.1\Eje6_Nombre_Edad.dll
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\obj\Debug\netcoreapp3.1\Eje6_Nombre_Edad.pdb
+C:\Johanna\ADSI\II TRIMESTRE\.NET\Ejercicios programacion en lenguaje I.Net\Ejercicio #6\Eje6_Nombre_Edad\Eje6_Nombre_Edad\obj\Debug\netcoreapp3.1\Eje6_Nombre_Edad.genruntimeconfig.cache
